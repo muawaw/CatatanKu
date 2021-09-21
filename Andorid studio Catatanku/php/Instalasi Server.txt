@@ -1,0 +1,6 @@
+instalasi server
+
+1. Copy folder "Catatan" letakkan pada direktori C:\xampp\htdocs
+2. pastikan pc dan android terhubung dalam satu jaringan yang sama
+3. pastikan xampp sudah terinstall dan aktif di pc server
+4. pastikan ip server terisi dengan benar 192.168.xxx.xxx
